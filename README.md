@@ -25,7 +25,7 @@ Additionally, I have proficiency in PHP programming language and its frameworks 
 <a href="https://github.com/cedogithub/library-app">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cedogithub&repo=Website-Blocker&theme=tokyonight" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cedogithub&repo=library-app&theme=tokyonight" />
 </a>  
 
 <a href="https://github.com/cedogithub/RPSgame">
