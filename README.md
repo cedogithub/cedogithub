@@ -36,3 +36,6 @@ Additionally, I have proficiency in PHP programming language and its frameworks 
 <a href="https://github.com/cedogithub/vino_etu">
        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cedogithub&repo=vino_etu&theme=tokyonight" />
 </a> 
+<a href="https://github.com/cedogithub/weather-app">
+       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cedogithub&repo=vino_etu&theme=tokyonight" />
+</a> 
